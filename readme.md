@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <i> i don't keep a bucketlist ! Open to anything :hand: </i>
+  <i> I don't keep a bucketlist ! Open to anything :hand: </i>
 </p>
 
 <br>
