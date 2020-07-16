@@ -35,11 +35,14 @@
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <br>
+    <p align="center">
    <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"alt="c" style="vertical-align:top; margin:4px"; width="3%">
      <img src="https://cdn.iconscout.com/icon/free/png-256/c-plus-569563.png"alt="c++" style="vertical-align:top; margin:4px"; width="3%">
  <img src="https://www.fluttericon.com/logo_dart_192px.svg"width="3%" alt="dart" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="3%" alt="flutter" style="vertical-align:top; margin:4px">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png"width="3%" alt="flutter" style="vertical-align:top; margin:4px">
+  </p>
 
 
 ---
