@@ -21,7 +21,7 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=W0lFi3-IND&show_icons=true&title_color=fff&icon_color=2196F3&text_color=2196F3&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=W0lFi3-IND&hide=["issues","stars"]&show_icons=true&title_color=fff&icon_color=2196F3&text_color=2196F3&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
