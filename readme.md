@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://cdn.lowgif.com/medium/fcaa3ba30c39af84-animation-image-for-android-mobile-wallpaper-images.gif" width="30%">
   <br><br>
-  <samp>
-    I'm Yashovardhan Shaktawat :wave:
-    <br><br>
-    Project currently working on :ForTheWin
-    <br><br>
-    I work as a Mobile :iphone:  developer!
-    <br><br>
+ I'm Yashovardhan Shaktawat :wave:
+ <br><br>
+  Project currently working on :ForTheWin
+  <br><br>
+  I work as a Mobile developer! :iphone: 
+  <br><br>
+ <samp>
   Android and Ios native uses half as much memory compared to Flutter and React Native. :grin:
     <br><br>
  
@@ -17,7 +17,7 @@
 <br>
 
 <details>
-  <summary> <b> Things you should know about me </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> About Me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
   
@@ -61,7 +61,7 @@
 </details>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> Social Media :incoming_envelope: </i>
 </p>
 
 <p align="center">
