@@ -16,16 +16,14 @@
 
 <br>
 
-<details>
-  <summary> <b> About Me! </b> <i>(click to expand!)</i> </summary>
-  
+# About Me!
   <br>
   
   [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=W0lFi3-IND&hide=["issues","stars"]&show_icons=true&title_color=fff&icon_color=2196F3&text_color=2196F3&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### - Languages and Tools...
+# - Languages and Tools...
 
 <p align="center">
 
@@ -49,7 +47,7 @@
 
 </p>
 
-### - I'm currently...
+# - I'm currently...
 
 - Improving my Android Development.
 - Improving firebase database skillsets.
@@ -58,20 +56,14 @@
 
 ---
 
-</details>
 
-<p align="center"> 
-  <i> Social Media :incoming_envelope: </i>
-</p>
-
-<p align="center">
+ 
+ # Social Media Accounts
   <a href="https://www.linkedin.com/in/yashovardhan-shaktawat-15823a164/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/yashosss"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
- 
-</p>
 
 <p align="center">
-  <i> I don't keep a bucketlist ! Open to anything :hand: </i>
+ <i> I don't keep a bucketlist ! Open to anything :hand: </i>
 </p>
 
 <br>
